@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "",
   "main": "lib/src/index.js",
+  "typings":"lib/src/index.d.ts",
   "scripts": {
     "tsc": "tsc -p tsconfig.json",
     "test": "node lib/test/index.js"
